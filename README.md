@@ -79,6 +79,7 @@ sub rsp, 0x10
 ```
 ## Screebshot
 <img width="1366" height="768" alt="simpCompINT" src="https://github.com/user-attachments/assets/131696a4-9207-461c-8453-80149661cf68" />
+
 ---
 ### Debugging with GDB
 GDB is used to inspect the program before execution begins.
